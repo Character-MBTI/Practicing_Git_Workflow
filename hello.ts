@@ -1,6 +1,4 @@
 //blablablaldfjkjshfr
-console.log("Hello World"!);
-
-function Hello(){
-    console.log("This function says hello!");
+function Bye(){
+    console.log("Bread is the most delicious food I ever had!");
 }
